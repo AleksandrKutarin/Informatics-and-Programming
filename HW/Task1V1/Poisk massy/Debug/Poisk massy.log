@@ -1,0 +1,7 @@
+﻿  Shkaf.c
+E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(26,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(27,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(28,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(29,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(30,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Poisk massy.vcxproj -> E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Debug\Poisk massy.exe
