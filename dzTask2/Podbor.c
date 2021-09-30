@@ -6,6 +6,7 @@ void main()
 {
 	setlocale(LC_ALL, "rus");
 	int a, b;
+	srand(time(NULL));
 	b = rand() % 1000 + 1;
 	do 
 	{

@@ -1,7 +1,8 @@
 ﻿  Shkaf.c
-E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(26,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(27,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(28,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(29,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(30,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-  Poisk massy.vcxproj -> E:\Рабочий стол\Домашка\Informatics-and-Programming\HW\Task1V1\Debug\Poisk massy.exe
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(27,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(28,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(29,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(30,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Task1V1\Poisk massy\Shkaf.c(31,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LINK : не найден или не выполнена сборка E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Task1V1\Debug\Poisk massy.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Poisk massy.vcxproj -> E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Task1V1\Debug\Poisk massy.exe
