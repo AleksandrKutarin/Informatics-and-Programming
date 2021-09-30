@@ -1,0 +1,4 @@
+﻿  Podbor.c
+E:\Рабочий стол\Task2\Informatics-and-Programming\dzTask2\Podbor.c(9,10): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+E:\Рабочий стол\Task2\Informatics-and-Programming\dzTask2\Podbor.c(23,2): warning C4550: вычисление выражения дает функцию, в которой отсутствует список аргументов
+  dzTask2.vcxproj -> E:\Рабочий стол\Task2\Informatics-and-Programming\dzTask2\Debug\dzTask2.exe
