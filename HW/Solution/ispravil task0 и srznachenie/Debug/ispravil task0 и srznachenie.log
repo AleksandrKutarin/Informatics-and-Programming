@@ -1,9 +1,0 @@
-﻿  schetispravil.c
-E:\Рабочий стол\shetispravil\Informatics-and-Programming\HW\solution\ispravil task0 и srznachenie\schetispravil.c(10,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-E:\Рабочий стол\shetispravil\Informatics-and-Programming\HW\solution\ispravil task0 и srznachenie\schetispravil.c(16,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-E:\Рабочий стол\shetispravil\Informatics-and-Programming\HW\solution\ispravil task0 и srznachenie\schetispravil.c(22,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-E:\Рабочий стол\shetispravil\Informatics-and-Programming\HW\solution\ispravil task0 и srznachenie\schetispravil.c(28,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-E:\Рабочий стол\shetispravil\Informatics-and-Programming\HW\solution\ispravil task0 и srznachenie\schetispravil.c(34,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "double *"
-E:\Рабочий стол\shetispravil\Informatics-and-Programming\HW\solution\ispravil task0 и srznachenie\schetispravil.c(35,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-E:\Рабочий стол\shetispravil\Informatics-and-Programming\HW\solution\ispravil task0 и srznachenie\schetispravil.c(47,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  ispravil task0 и srznachenie.vcxproj -> E:\Рабочий стол\shetispravil\Informatics-and-Programming\HW\solution\ispravil task0 и srznachenie\Debug\ispravil task0 и srznachenie.exe

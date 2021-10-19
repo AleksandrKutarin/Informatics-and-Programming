@@ -1,9 +1,0 @@
-﻿  schet.c
-E:\Рабочий стол\Sredznach\Informatics-and-Programming\HW\Solution\Sredneeznachenie\schet.c(7,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-ptyamougl.obj : error LNK2005: _main уже определен в okr.obj
-schet.obj : error LNK2005: _main уже определен в okr.obj
-srarifm.obj : error LNK2005: _main уже определен в okr.obj
-srkorni.obj : error LNK2005: _main уже определен в okr.obj
-srkvchisel.obj : error LNK2005: _main уже определен в okr.obj
-srmodabs.obj : error LNK2005: _main уже определен в okr.obj
-E:\Рабочий стол\Sredznach\Informatics-and-Programming\HW\Solution\Sredneeznachenie\Debug\Sredneeznachenie.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
