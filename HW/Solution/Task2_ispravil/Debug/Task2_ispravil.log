@@ -1,0 +1,8 @@
+﻿  main.c
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Solution\Task2_ispravil\main.c(22,8): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Solution\Task2_ispravil\main.c(23,11): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Solution\Task2_ispravil\main.c(50,12): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Solution\Task2_ispravil\main.c(50,12): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Solution\Task2_ispravil\main.c(50,12): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Solution\Task2_ispravil\main.c(50,12): message : этот аргумент используется в качестве размера буфера
+  Task2_ispravil.vcxproj -> E:\Рабочий стол\Task2\Informatics-and-Programming\HW\Solution\Task2_ispravil\Debug\Task2_ispravil.exe
